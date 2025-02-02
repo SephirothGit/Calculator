@@ -1,10 +1,10 @@
-## Calculator Project
+# Calculator Project
 
 This project was made to help humanity calculate numbers
 
 
 
-# Guide how to use Calculator:
+## Guide how to use Calculator:
 
 1.Choose the action
 
